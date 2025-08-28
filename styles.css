@@ -5,6 +5,11 @@ body{
 .book-library{
 	background-color:#ffffff;
 }
+.book h2{
+	font-weight:bold;
+	margin:8px;
+	font-size:18px;
+}
 
 .book img{
 	display:block;
@@ -13,7 +18,7 @@ body{
 .price{
 	display:block;
 	color:white;
-	background-color:green;
+	background-color:rgb(46, 204, 113);
 	width: 100%;
 	border-radius:4px;
 	padding:8px;
