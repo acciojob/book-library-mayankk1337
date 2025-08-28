@@ -16,7 +16,7 @@ body{
 	margin:0 auto 10px
 }
 .book p{
-	color:gray;
+	color:rgb(119, 119, 119);
 	font-size:14px;
 }
 .price{
